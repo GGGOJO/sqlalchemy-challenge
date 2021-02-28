@@ -35,7 +35,7 @@ def welcome():
         f"/api/v1.0/precipitation<br/>"
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/>"
-        f"/ api/v1.0/temp/start<br/>"
+        f"/api/v1.0/temp/start<br/>"
         f"/api/v1.0/temp/start/end"
     )
 
